@@ -1,6 +1,6 @@
 --~ auther: Angryfox Su
 --~ date: 2013-06-24
---~ MV列表的接口处理
+--~ MV
 local cjson =  require "cjson"
 local redis =  require "redis_class"["Redis_Class"]
 local commen =  require "commen_class"["Commen_Class"]
